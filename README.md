@@ -2,9 +2,9 @@
 
 Web application example. The calendar is made on Ruby He Rails.
 
-* Ruby version - 2.6.3
+* Ruby version - `2.6.3`
 
-* Rails version - 6.0.1
+* Rails version - `6.0.1`
 
 * Deployment instructions
 
