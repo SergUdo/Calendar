@@ -1,6 +1,6 @@
 # README
 
-Web application example. The calendar is made on Ruby He Rails.
+Web application example. The calendar is made on Ruby on Rails.
 
 * Ruby version - `2.6.3`
 
