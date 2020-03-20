@@ -16,7 +16,13 @@ Use the command to copy the application:
 
 `git clone` 
 
+Run the command:
 
+`cd calendar`
+
+Run the command: 
+
+`bundle install&&rails db:migrate`
 
 Run the command to start the application:
 
