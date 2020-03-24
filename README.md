@@ -25,10 +25,12 @@ bundle install&&rails db:migrate
 
 rails s
 
+```
+
 In the search bar of the browser, type the command:
 
-0.0.0.0:3000
-```
+`0.0.0.0:3000`
+
 else 
 
 visit to:
