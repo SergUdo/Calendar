@@ -14,26 +14,24 @@ To start the application, you need to install rails installer on your system. Yo
 
 Use the command to copy the application:
 
-```git clone```
+`git clone`
 
 Run the command:
 
-```cd calendar```
+```
+cd calendar
 
-Run the command: 
+bundle install&&rails db:migrate
 
-```bundle install&&rails db:migrate```
-
-Run the command to start the application:
-
-```rails s```
+rails s
 
 In the search bar of the browser, type the command:
 
-```0.0.0.0:3000```
-
+0.0.0.0:3000
+```
 else 
 
 visit to:
 
 https://calendarnew.herokuapp.com/
+
