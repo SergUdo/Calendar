@@ -12,24 +12,27 @@ Deployment instructions
 
 To start the application, you need to install rails installer on your system. You can download rails installer from http://railsinstaller.org/en and follow the instructions to install it on your system.
 
-Use the command to copy the application:
-
-`git clone`
+Clone the repo
 
 Run the command:
 
 ```
-cd calendar
 
 bundle install&&rails db:migrate
+```
 
+Start server:
+
+```
 rails s
 
 ```
 
 In the search bar of the browser, type the command:
 
-`0.0.0.0:3000`
+```
+0.0.0.0:3000
+```
 
 else 
 
